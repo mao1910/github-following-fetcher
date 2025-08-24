@@ -1,0 +1,28 @@
+# Ignore Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore IDE/editor config files
+.vscode/
+.idea/
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore Python package/build files
+*.egg-info/
+dist/
+build/
+
+# Ignore pip cache
+pip-log.txt
+pip-delete-this-directory.txt
