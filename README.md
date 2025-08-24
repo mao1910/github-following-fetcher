@@ -1,4 +1,4 @@
-```markdown
+
 # github-following-fetcher
 
 Python script using the GitHub REST API to fetch the complete list of users followed by a specified GitHub account, supporting pagination and saving the output to a text file.
@@ -48,12 +48,8 @@ This project is licensed under the MIT License.
 
 ## Author
 
-mao1910
+**mao1910**
 
 ## Contributing
 
 Feel free to submit pull requests, bug reports, or feature requests.
-
----
-
-Thank you for using this script! If you find it useful, consider starring the repository.
