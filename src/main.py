@@ -63,7 +63,7 @@ if __name__ == "__main__":
     print(f"\nTotal users {username} is following: {len(all_following)}")
 
     # Save the list of usernames to a text file, one username per line
-    with open("following_users.txt", "w") as file:
+    with open("../data/following_users.txt", "w") as file:
         for user in all_following:
             file.write(user + "\n")
 
